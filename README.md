@@ -31,8 +31,9 @@ The ATM Machine Management System is a Java-based application developed to provi
 ## Setup Instructions
 
 1. Clone the Repository:
+   https://github.com/gaurikarkhile001/ATM-Machine-using-java-and-MySql
    
-2. Import Project into IDE:
+3. Import Project into IDE:
 - Import the project into your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
 3. Database Setup:
